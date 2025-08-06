@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "company": "TechNova",
+    "phone": "+1 202-555-0171",
+    "email": "alice@technova.com",
+    "country": "USA",
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Brian Smith",
+    "company": "InnovaSoft",
+    "phone": "+44 20 7946 0958",
+    "email": "brian@innovasoft.co.uk",
+    "country": "UK",
+    "status": "Inactive"
+  },
+  {
+    "id": 3,
+    "name": "Catherine Lee",
+    "company": "SkyNet Inc.",
+    "phone": "+61 2 9374 4000",
+    "email": "catherine@skynet.au",
+    "country": "Australia",
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "Daniel Müller",
+    "company": "CodeHaus",
+    "phone": "+49 30 123456",
+    "email": "daniel@codehaus.de",
+    "country": "Germany",
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "Elena Petrova",
+    "company": "SiberTech",
+    "phone": "+7 495 123-45-67",
+    "email": "elena@sibertech.ru",
+    "country": "Russia",
+    "status": "Inactive"
+  },
+  {
+    "id": 6,
+    "name": "Faisal Khan",
+    "company": "CloudX",
+    "phone": "+91 98765 43210",
+    "email": "faisal@cloudx.in",
+    "country": "India",
+    "status": "Active"
+  },
+  {
+    "id": 7,
+    "name": "Grace Lee",
+    "company": "NovaCore",
+    "phone": "+82 2-123-4567",
+    "email": "grace@novacore.kr",
+    "country": "South Korea",
+    "status": "Active"
+  },
+  {
+    "id": 8,
+    "name": "Hiro Tanaka",
+    "company": "NeoTokyo",
+    "phone": "+81 3-1234-5678",
+    "email": "hiro@neotokyo.jp",
+    "country": "Japan",
+    "status": "Inactive"
+  },
+  {
+    "id": 9,
+    "name": "Isabella Rossi",
+    "company": "Milan Systems",
+    "phone": "+39 02 12345678",
+    "email": "isabella@milansys.it",
+    "country": "Italy",
+    "status": "Active"
+  },
+  {
+    "id": 10,
+    "name": "John Doe",
+    "company": "Acme Corp",
+    "phone": "+1 303-555-0199",
+    "email": "john@acmecorp.com",
+    "country": "USA",
+    "status": "Inactive"
+  },
+  {
+    "id": 11,
+    "name": "Karen Black",
+    "company": "Orbit Solutions",
+    "phone": "+61 7 1234 5678",
+    "email": "karen@orbit.au",
+    "country": "Australia",
+    "status": "Active"
+  },
+  {
+    "id": 12,
+    "name": "Luis Martinez",
+    "company": "AzulTech",
+    "phone": "+34 91 123 4567",
+    "email": "luis@azultech.es",
+    "country": "Spain",
+    "status": "Active"
+  },
+  {
+    "id": 13,
+    "name": "Maria Gomez",
+    "company": "SmartLogics",
+    "phone": "+52 55 1234 5678",
+    "email": "maria@smartlogics.mx",
+    "country": "Mexico",
+    "status": "Inactive"
+  },
+  {
+    "id": 14,
+    "name": "Nina Berg",
+    "company": "CloudNord",
+    "phone": "+46 8 123 456",
+    "email": "nina@cloudnord.se",
+    "country": "Sweden",
+    "status": "Active"
+  },
+  {
+    "id": 15,
+    "name": "Oscar Silva",
+    "company": "BrasilWare",
+    "phone": "+55 11 91234-5678",
+    "email": "oscar@brasilware.br",
+    "country": "Brazil",
+    "status": "Active"
+  },
+  {
+    "id": 16,
+    "name": "Priya Sharma",
+    "company": "IndTech",
+    "phone": "+91 98123 45678",
+    "email": "priya@indtech.in",
+    "country": "India",
+    "status": "Inactive"
+  },
+  {
+    "id": 17,
+    "name": "Quentin Dupont",
+    "company": "Paris Digital",
+    "phone": "+33 1 23 45 67 89",
+    "email": "quentin@parisdigital.fr",
+    "country": "France",
+    "status": "Active"
+  },
+  {
+    "id": 18,
+    "name": "Rania Said",
+    "company": "CairoSoft",
+    "phone": "+20 2 12345678",
+    "email": "rania@cairosoft.eg",
+    "country": "Egypt",
+    "status": "Inactive"
+  },
+  {
+    "id": 19,
+    "name": "Satoshi Nakamoto",
+    "company": "Blockchain Inc.",
+    "phone": "+81 80-1234-5678",
+    "email": "satoshi@blockchain.jp",
+    "country": "Japan",
+    "status": "Active"
+  },
+  {
+    "id": 20,
+    "name": "Tina Chen",
+    "company": "Taiwan Tech",
+    "phone": "+886 2 1234 5678",
+    "email": "tina@twtech.tw",
+    "country": "Taiwan",
+    "status": "Active"
+  }
+]
